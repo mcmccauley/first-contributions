@@ -1600,6 +1600,7 @@ Kashish Khullar - :P
 - [Aly Sheppard](https://github.com/asheppard6)
 - [JXTG](https://github.com/JXTG)
 - [Jpelttari](https://github.com/Jpelttari)
+- [Maria McCauley] (https://github.com/mcmccauley)
 - [Doruk Gezici](https://github.com/dorukgezici)
 - [Avi98](https://github.com/Avi9)
 - [Sugeng Sulistiyawan](https://github.com/die-coding)
@@ -7116,3 +7117,4 @@ Kashish Khullar - :P
 - [Michael Lore](https://github.com/michaellore)
 - [Chrissy Gonzalez](https://github.com/chrissygonzalez)
 - [Yobani Mendoza](https://github.com/yobani1987)(yobani_mendoza on Instagram)
+
